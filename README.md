@@ -24,8 +24,8 @@ Este repositório contém um arquivo `docker-compose.yaml` para configurar e exe
 
 Interface web: `http://localhost:9001`
 ## Credenciais padrão:
--    Usuário: your_username
--    Senha: your_pasword
+-    Usuário: admin
+-    Senha: minha_senha
 
 ## Configure o bucket inicial chamado bucket-images.
 
